@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Indiflower";
+    src: url(/fonts/IndiFlower/IndieFlower-Regular.ttf);
+}
+
+p {
+    color: midnightblue;
+    font-family: "Indiflower";
+    width: 500px;
+    line-height: 30px;
+
+}

@@ -1,0 +1,14 @@
+p{
+    text-transform: uppercase;
+    text-align: right;
+    font-size: smaller;
+    font-weight: 100;
+    color: olivedrab;
+}
+caption{
+    font-size: 100px;
+}
+tr{
+    color: orangered;
+    font-size: 25px;
+}
